@@ -6,7 +6,7 @@
 
 前提是==Mac电脑,QQ绿钻==(~~我白嫖的7天绿钻~~)
 只是偶然发现有缓存这个东西,有的音频可以直接在QQ音乐for Mac播放,有的加密的音频就得先解密一下,最新发现是,,,有的付费试听以后找不到缓存,就,,,没得绕过了
-![付费可能破解不了](https://img-blog.csdnimg.cn/20200210155245506.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ludmluY2libGVNdXJQSHk=,size_16,color_FFFFFF,t_70)
+![付费不一定能破解](https://img-blog.csdnimg.cn/20200210155508257.png)
 
 #  步骤
 1.**在设置打开无损播放**
