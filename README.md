@@ -34,7 +34,7 @@ open ~/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Suppo
 终端复制黏贴代码是
 
 ```
-//cd /Users/<你的用户名>/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iQmc
+open ~/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iQmc
 ```
 
 4.**按照修改日期排序,找到最新的文件夹**
