@@ -18,11 +18,21 @@
  
  ![找到缓存文件夹](https://img-blog.csdnimg.cn/20200209201811978.png)
  路径是
+ `/Users/<你的用户名>
+ /Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iMusic`
+ 
+ 终端复制黏贴代码是
+ 
 ```
-//cd /Users/<你的用户名>/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iMusic
+open ~/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iMusic
 ```
 ![下载的编码音乐](https://img-blog.csdnimg.cn/20200209201035662.png)
 (附带一个付费音乐下载后所在路径)
+`/Users/<你的用户名>
+/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iQmc`
+
+终端复制黏贴代码是
+
 ```
 //cd /Users/<你的用户名>/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application\ Support/QQMusicMac/iQmc
 ```
