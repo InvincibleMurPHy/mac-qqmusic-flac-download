@@ -5,13 +5,16 @@
 # 概述
 
 前提是==Mac电脑,QQ绿钻==(~~我白嫖的7天绿钻~~)
-只是偶然发现有缓存这个东西,有的音频可以直接在QQ音乐for Mac播放,有的加密的音频就得先解密一下.
+只是偶然发现有缓存这个东西,有的音频可以直接在QQ音乐for Mac播放,有的加密的音频就得先解密一下,最新发现是,,,有的付费试听以后找不到缓存,就,,,没得绕过了
+![付费可能破解不了](https://img-blog.csdnimg.cn/20200210155245506.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ludmluY2libGVNdXJQSHk=,size_16,color_FFFFFF,t_70)
 
 #  步骤
-1.**在设置打开无损播放**![设置无损音质](https://img-blog.csdnimg.cn/20200209200631844.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ludmluY2libGVNdXJQSHk=,size_16,color_FFFFFF,t_70)
+1.**在设置打开无损播放**
+![设置无损音质](https://img-blog.csdnimg.cn/20200209200631844.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ludmluY2libGVNdXJQSHk=,size_16,color_FFFFFF,t_70)
 (~~不要在意QQ昵称~~)
 
- 2.**播放一首无损音质的音乐**(别的音质也可以,可能最后都是要破解掉的)![播放无损音乐](https://img-blog.csdnimg.cn/2020020920115890.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ludmluY2libGVNdXJQSHk=,size_16,color_FFFFFF,t_70)
+ 2.**播放一首无损音质的音乐**(别的音质也可以,可能最后都是要破解掉的)
+ ![播放无损音乐](https://img-blog.csdnimg.cn/2020020920115890.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ludmluY2libGVNdXJQSHk=,size_16,color_FFFFFF,t_70)
 >(*Hardstyle never dies!!!*)
 
  3.**播放到缓存条走完以后,按照这个路径找一下,这是缓存所在路径**
